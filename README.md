@@ -30,4 +30,4 @@ python -m venv venv
   ```
 .\venv\scripts\activate  
   ```
-### Use you IDE
+### Use you IDE to run all quires to MySQL database 
