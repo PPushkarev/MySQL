@@ -16,7 +16,7 @@
 
 The tech stack used in this project are:
 
-    Python as the programming language for writing test code
+    Python as the programming language for writing  code
     Pymysql as the framework
     PIP3 as the build tool
     MySQL Database 
